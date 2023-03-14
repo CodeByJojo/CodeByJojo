@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **A video game news site called Pixel Perfect**
 
-- 👨‍💻 All of my projects are available at [codebyjojo.com](www.codebyjojo.com)
+- 👨‍💻 All of my projects are available at [codebyjojo.com](https://codebyjojo.com)
 
 - 📫 You can reach me at **joe@codebyjojo.com**
 
-- 📄 And you can learn even more about me here [shorturl.at/cqtNO](shorturl.at/cqtNO)
+- 📄 And you can learn even more about me here [shorturl.at/cqtNO](https://shorturl.at/cqtNO)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
