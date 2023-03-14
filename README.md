@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A video game news site called Pixel Perfect**
 
-- 👨‍💻 All of my projects are available at [codebyjojo.com](codebyjojo.com)
+- 👨‍💻 All of my projects are available at [codebyjojo.com](www.codebyjojo.com)
 
 - 📫 You can reach me at **joe@codebyjojo.com**
 
