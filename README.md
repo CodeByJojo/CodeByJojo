@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **joe@codebyjojo.com**
 
-- 📄 And you can learn even more about me here [shorturl.at/cqtNO](https://shorturl.at/cqtNO)
+- 📄 And you can learn even more about me here https://tinyurl.com/4bs8kcz2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
